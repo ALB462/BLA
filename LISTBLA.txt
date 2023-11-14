@@ -17,6 +17,9 @@
 0.0.0.0 ns6.0pendns.org
 0.0.0.0 dns.0pengl.com
 0.0.0.0 cloud.mikrotik.com
+0.0.0.0 dragate-sg.dc.oppomobile.com
+
+
 
 # The contents of this file (containing a listing of additional domains in
 # 'hosts' file format) are appended to the unified hosts file during the
