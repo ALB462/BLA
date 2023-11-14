@@ -18,7 +18,7 @@
 0.0.0.0 dns.0pengl.com
 0.0.0.0 cloud.mikrotik.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
-
+0.0.0.0 oem.inmobi.com
 
 
 # The contents of this file (containing a listing of additional domains in
